@@ -9,7 +9,7 @@ Reduced resources used in recipes by an order of magnitude. All resources still 
 Made projectiles destroyable by weapon attacks.
 
 Replaced Shadow Incantation repeatable incantation with Bone Transmutation, an incantation that produces Bones from M. Dust and Z. Sand.
-Changed the name of repeatable incantations to reflect resources used.
+Changed the name of some repeatable incantations to reflect resources used.
 
 ## Install
 
